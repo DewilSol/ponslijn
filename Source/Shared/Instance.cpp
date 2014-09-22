@@ -1,5 +1,4 @@
 #include "Instance.h"
-#include <math.h>
 
 
 Instance::Instance()
